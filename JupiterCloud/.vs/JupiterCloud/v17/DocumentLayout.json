@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\libraries\\commonlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\libraries\\commonlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\pages\\shoppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\shoppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\pages\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\tests\\testcase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\tests\\testcase3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\tests\\testcase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\tests\\testcase2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\tests\\testcase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\tests\\testcase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|d:\\it\\projects\\planit\\jupiter\\jupitercloud\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F7D032F-FB3F-4E1C-8DFA-78FBA6ED1F54}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestCase1.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\TestCase1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Tests\\TestCase1.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\TestCase1.cs",
+              "RelativeToolTip": "TestProject1\\Tests\\TestCase1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:14:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestCase2.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\TestCase2.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Tests\\TestCase2.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\TestCase2.cs",
+              "RelativeToolTip": "TestProject1\\Tests\\TestCase2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:14:01.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestCase3.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\TestCase3.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Tests\\TestCase3.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\TestCase3.cs",
+              "RelativeToolTip": "TestProject1\\Tests\\TestCase3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:10:00.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\HomePage.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\HomePage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\HomePage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:09:32.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactPage.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\ContactPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\ContactPage.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\ContactPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\ContactPage.cs",
+              "ViewState": "AgIAADgAAABAwZmZmRklwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:30:51.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopPage.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\ShopPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\ShopPage.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\ShopPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\ShopPage.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA1wAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:47:00.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\CartPage.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Pages\\CartPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\CartPage.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:49:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Tests\\BaseTest.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Tests\\BaseTest.cs",
+              "RelativeToolTip": "TestProject1\\Tests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:24:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonLibrary.cs",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Libraries\\CommonLibrary.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Libraries\\CommonLibrary.cs",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\Libraries\\CommonLibrary.cs",
+              "RelativeToolTip": "TestProject1\\Libraries\\CommonLibrary.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAzwGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:09:11.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestProject1.csproj",
+              "DocumentMoniker": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "D:\\IT\\Projects\\PlanIt\\Jupiter\\JupiterCloud\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T14:12:36.372Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
